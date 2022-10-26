@@ -1,0 +1,9 @@
+{
+  "login_url": "",
+  "username": "",
+  "password": "",
+  "rets_version": "1.7.2",
+  "useragent": "PHRETS/2.0",
+  "useragent_password": "",
+  "http_auth": "digest"
+}
